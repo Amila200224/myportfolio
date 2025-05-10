@@ -1,0 +1,35 @@
+     body {
+        background-color: rgb(239, 230, 248);
+     }
+     h1 {
+        color: lab(66.33% -66.73 65.6);
+        font-size: 45px;
+        text-decoration: underline;
+     }
+     .about {
+        background-color: #8beeff;
+        padding: 20px 10px 20px 10px;
+        border: #0f0f0f solid;
+     }
+     .Projects {
+        background-color: #8beeff;
+        padding: 20px 10px 20px 10px;
+        border: #0f0f0f solid;
+     }
+     .contact {
+        background-color: #8beeff;
+        padding: 20px 10px 20px 10px;
+        border: #0f0f0f solid;
+     }
+     .subscribe-button {
+        text-decoration: none;
+        background-color: #e90bb9;
+        padding: 5px 5px 5px 5px;
+     }
+     .subscribe-button:hover {
+        text-decoration: #fffcfc;
+        background-color: #09f014;
+     }
+     .inline-box {
+        display: flex;
+     }
